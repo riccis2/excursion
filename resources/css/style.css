@@ -3,7 +3,7 @@
   text-align: center;
 }
 
-#title{
+h1{
   font-family: verdana, "courier new";
   color: white;
   font-weight: normal;
@@ -13,4 +13,21 @@
 .link{
   color: aquamarine;
   font-size: 16px;
+}
+
+h2{
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h3{
+  color: gray;
+  font-family: verdana;
+  font-size: 21px
+}
+
+#copyright{
+  text-align: right;
 }
